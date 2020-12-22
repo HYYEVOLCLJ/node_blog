@@ -1,0 +1,9 @@
+{
+	"db": {
+		"user": "congcong",
+		"host": "192.168.229.136",
+		"port": "27017",
+		"name": "blog",
+		"pwd": "congcong"
+	}
+}
